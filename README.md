@@ -38,7 +38,7 @@ a list of 9 numbers. It is ideal for students, developers, or anyone interested 
 ## Installation
 1. **Clone or download this repository to your local machine**:
     ```bash
-    git clone <COLOCAR_URL_MI_REPOSITORIO>
+    git clone https://github.com/DaniElias7/mean_variance_standard_deviation_calculator
 
 2. **Install the dependencies**:
 
